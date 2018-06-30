@@ -14,7 +14,7 @@ h1 {
 
 .navbar {
     padding: 5px;
-    background: #b5eb78 !important;
+    background-color: rgba(0,0,0,0.5) !important;
 }
  
 .navbar img {
