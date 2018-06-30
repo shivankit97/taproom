@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: url(img/bg-login.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+} 
+
+.navbar {
+    padding: 5px;
+    background: #b5eb78 !important;
+}
+ 
+.navbar img {
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.nav-link {
+    font-size: 17px;
+}
+.main-section {
+    margin: 0;
+    margin-top: 70px;
+    padding: 0;
+}
+
+.modal-content {
+    background-color: rgb(131, 194, 189);
+    opacity: 0.85;
+    padding: 0 18px;
+    box-shadow: 0px 0px 3px #000;
+}
+
+.logo {
+    margin-top: 1em;
+    margin-bottom: 35px;
+}
+
+.logo img {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px #000;
+}
+
+.input-group {
+    margin-bottom: 25px;
+}
+
+.input-group input {
+    height: 42px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 18px;
+}
+
+button {
+    width: 100px;
+    margin: 5px 0 25px;
+}
+ 
+.btn {
+    font-size: 19px;
+    padding: 7px 14px;
+    border-radius: 5px;
+    border-bottom: 4px solid #3d3636;
+}
+
+.fa-sign-in-alt {
+    font-size: 17px;
+    margin-right: 7px;
+}
